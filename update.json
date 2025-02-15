@@ -1,8 +1,8 @@
 {
-  "hotfix": 0,
+  "hotfix": 1,
   "version": {
                 "ver": 10,
-                "ver_txt": "0.0.8" 
+                "ver_txt": "0.0.9" 
              },
   "versions_info": [
                    {
