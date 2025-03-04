@@ -4,8 +4,11 @@
                 "ver": 15,
                 "ver_txt": "0.1.2" 
              },
+  "links": {
+    "discord": "https://discord.gg/c4uyRSmF",
+    "blasthack": "https://discord.gg/c4uyRSmF"
+  },
   "versions_info": [
-    
                    {
                      "header": "Обновление! [v. 0.1.2]",
                      "text": "1. Добавлена \"Умная рация департамента\" - [/dep].\n2. И всё... А чего ты хотел? Напиши в поддержку в Главном меню [/fbi]."
